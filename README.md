@@ -1,11 +1,11 @@
-# VR Robot lego, using myo gesture control armband and a phone VR headset
+# VR Robot lego, using myo gesture control armband and a "cardboard" VR headset
 
 # Project presentation
 
 The objective of this project is to design and program a Lego EV3 robot with Xamarin. 
 
 The robot has a slot to hold a smartphone, that will be used as a camera filming the environment around the robot.
-Our goal is that the user can see what the robot sees, through a phone VR headset, so that the user put themselves in the robot's place.
+Our goal is that the user can see what the robot sees, through a "cardboard"-like VR headset (holding a second phone), so that the user put themselves in the robot's place.
 When the user moves turns his head, the camera on the robot should rotate at the same time.
 
 To control the robot, we plan to use a Myo gesture control armband. The Myo armband should allow the user to make the robot move: forwards, backwards, rotate right and left.
